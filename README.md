@@ -1,5 +1,5 @@
 
-<h1>Profile page</h1>
+<h1>My page</h1>
 
 Le lien heroku : https://
 
