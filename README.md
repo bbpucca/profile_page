@@ -1,24 +1,17 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<h1>Profile page</h1>
 
-Things you may want to cover:
+Le lien heroku : https://
 
-* Ruby version
+<h2>Utilisation en local</h2>
+<p>git clone https://github.com/bbpucca/profil_page.git
 
-* System dependencies
+cd profil_page
 
-* Configuration
+bundle install
 
-* Database creation
+rails db:create
 
-* Database initialization
+rails server
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Go sur http://localhost:3000/
