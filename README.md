@@ -1,7 +1,7 @@
 
 <h1>My page</h1>
 
-Le lien heroku : https://mimipage.herokuapp.com/
+Le lien : https://rawgit.com/MadiNaf/Valerie/master/index.html
 
 <h2>Utilisation en local</h2>
 <p>git clone https://github.com/bbpucca/profil_page.git
